@@ -1,0 +1,20 @@
+.video_container_main {
+  width: 300px;
+  height: 320px;
+}
+.image_container_listing {
+  position: relative;
+  width: 300px;
+  height: 174px;
+}
+.image_container_listing > img {
+  width: 300px;
+  height: 174px;
+}
+.watch_later {
+  position: absolute;
+  right: 0;
+  background-color: white;
+  color: cadetblue;
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.category_main {
+  padding: 1rem;
+}
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+}
+.categoryContainer {
+  display: flex;
+  gap: 4rem;
+}
+.category_heading {
+  padding-left: 12.4rem;
+}
